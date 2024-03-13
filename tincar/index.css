@@ -42,9 +42,9 @@ button:hover{
     
 }
 
-.color-acento{color: blueviolet;}
+.color-acento{color: blueviolet;
 display:flex;
-
+}
 header{
     background-color: rgb(245,254,245);
     
